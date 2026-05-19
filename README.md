@@ -4,7 +4,7 @@ It tracks KPIs, compares regional performances, analyses product-level trends, a
 
 **Steps:**
 1. Connecting & Shaping Data : 
-   I built an automated workflow to extract, clean, transform, and load the project data using Power Query.
+   I built an automated workflow to extract, clean, transform, and load the data using Power Query.
 2. Creating a Relational Data Model :
    Built a data model using a normalised star schema
 3. Added calculated fields with DAX
