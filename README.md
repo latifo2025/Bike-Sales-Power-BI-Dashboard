@@ -1,5 +1,5 @@
 # Bike-Sales-Power-BI-Dashboard
-I created a Power BI dashboard analysing sales for a bike sales company called 'Bike Bliss'.
+I created a Power BI dashboard analysing sales for a bike sales company.
 It tracks KPIs, compares regional performances, analyses product-level trends, and identifies high-value customers for bike and accessory sales.
 
 **Steps:**
