@@ -11,7 +11,7 @@ It tracks KPIs, compares regional performances, analyses product-level trends, a
 4. Visualizing Data with Reports :
    Added interactivity with bookmarks, slicer panels, parameters, tooltips, and report navigation
 ** **
-**Exec Dashoboard**
+**Executive Dashoboard**
 
 It shows at a high level the major KPIs, revenue, profit, orders, revenue trends over time, and top 10 products. The navigation bar on the left hand side allows moving to other pages of the dashboard.
 
